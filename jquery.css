@@ -1,0 +1,33 @@
+* {
+    margin-top: 10px;
+}
+
+#top {
+    width: 500px;
+    margin: auto;
+    border: 1px solid #DFDFDF;
+    background: #EBEBEB;
+    border-radius: 5px;
+    height: 140px;
+}
+
+textarea {
+    width: 440px;
+    height: 80px;
+    margin-left: 50px;
+    margin-top: 8px;
+    border: 1px solid #DFDFDF;
+    text-indent: 10px;
+    line-height: 25px;
+}
+
+#enter {
+    padding-left: 8px;
+}
+
+.btn_cmt,
+.show {
+    float: right;
+    /* margin-top: 15px; */
+    margin-right: 8px;
+}

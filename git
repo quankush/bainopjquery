@@ -1,0 +1,29 @@
+khởi tạo git 
+chỉ cần chạy 1 lần khi khởi tạo
+
+git init            khởi tạo git , kho git cá nhân
+
+git remote add      tạo liên kết giữa kho git local và kho git online
+//=======================================================
+
+thao tác với git
+
+đẩy code lên git
+
+git add .           đóng gói code
+
+git commit -m ''    lưu code tại 1 thời đ vào lịch sử
+
+git push            đẩy commit lên git online
+
+git log             xem lịch sử commit
+
+git checkout        di chuyển qua lại giữa các commit, nhánh
+
+//==============================================
+git clone           để mang copy code dự án về máy, đồng thời tạo kho git và liên kết git
+                    git init + git remote add + git pull
+
+git pull            mang code từ github về
+
+luôn git pull trước khi git push
